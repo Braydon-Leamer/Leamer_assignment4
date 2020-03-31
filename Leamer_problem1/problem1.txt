@@ -1,0 +1,15 @@
+yes
+yes
+food
+yes
+no
+no
+yes
+no
+no
+no
+food
+food
+program
+test
+program
